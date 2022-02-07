@@ -10,7 +10,7 @@
   border-radius: 20px;
   margin: 5px;
 }
-.screen {
+.view {
   background-color: rgb(45, 45, 54);
   color: white;
   text-align: right;
@@ -41,11 +41,11 @@
   font-size: 30px;
   text-align: center;
 }
-.yellow {
+.inline {
   background-color: rgb(254, 159, 11);
 }
 
-#last-yellow {
+#equal {
   border-bottom-right-radius: 25px;
 }
 #zero {
