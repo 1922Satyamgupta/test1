@@ -21,14 +21,11 @@
 }
 .container {
   width: 56%;
-  
 }
 .rows {
   background-color: rgb(96, 96, 103);
-  
   overflow: hidden;
 }
-
 .column{
   width: 14%;
   display: inline;
@@ -44,7 +41,6 @@
 .inline {
   background-color: rgb(254, 159, 11);
 }
-
 #equal {
   border-bottom-right-radius: 25px;
 }
